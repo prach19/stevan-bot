@@ -1,4 +1,5 @@
 # stevan-bot
+click [here](https://top.gg/bot/980883944729890847) to add Stevan to your discord server.
 
 ### what is this?
 Stevan is a mental health discord bot built in Python with [Nextcord](https://github.com/nextcord/nextcord) and hosted on [Heroku](https://www.heroku.com).
